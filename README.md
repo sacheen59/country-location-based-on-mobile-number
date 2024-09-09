@@ -34,5 +34,5 @@ python main.py
 ```
 
 ## Contact
-Email - [baralisachin472@gmail.com](mailto:baralisachin472@gmail.com)
-Linkedin - [linkedin](https://www.linkedin.com/in/sachin-barali/)
+- Email - [baralisachin472@gmail.com](mailto:baralisachin472@gmail.com)
+- Linkedin - [linkedin](https://www.linkedin.com/in/sachin-barali/)
