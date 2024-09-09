@@ -26,7 +26,7 @@ pip install -r requirements.txt
 
 4. create .env file
 create .env file and add the key for using opencage
-- Visit [OpenCage](#https://opencagedata.com/)
+- Visit [OpenCage](https://opencagedata.com/)
 
 5. Run the project:
 ```bash
@@ -35,4 +35,4 @@ python main.py
 
 ## Contact
 Email - [baralisachin472@gmail.com](mailto:baralisachin472@gmail.com)
-Linkedin - [linkedin](#https://www.linkedin.com/in/sachin-barali/)
+Linkedin - [linkedin](https://www.linkedin.com/in/sachin-barali/)
