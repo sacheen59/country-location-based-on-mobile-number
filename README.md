@@ -6,7 +6,7 @@ Find the coutry location based on enter mobile number
 - [Contact](#contact)
 
 ## project description
-This project is for finding the location of the country from the given number of the user.
+This project is for finding the location of the country from the given phone number of the user.
 
 ## Installation
 
@@ -25,8 +25,8 @@ pip install -r requirements.txt
 ```
 
 4. create .env file
-create .env file and add the key for opencage
-Visit [OpenCage](#https://opencagedata.com/)
+create .env file and add the key for using opencage
+- Visit [OpenCage](#https://opencagedata.com/)
 
 5. Run the project:
 ```bash
